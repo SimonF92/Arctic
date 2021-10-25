@@ -1,3 +1,3 @@
-# Arctic Regions Decadal mines the current MASIE sea ice extent for Arctic regions and plots up to date figures based on this
+# This is a collection of different plotting and algorithmic tools for Arctic ice thickness calculations and visualisations
 
-# MOSAIC buoy mining produces estimates of ice thickness and snow thickness (snow thickness not current reliable) from buoy data
+The most user friendly tutorials are found at 'SIMB tutorials'
